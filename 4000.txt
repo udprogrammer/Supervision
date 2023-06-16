@@ -1,0 +1,3 @@
+
+string is number
+entrr data 
